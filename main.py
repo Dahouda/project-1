@@ -2,6 +2,7 @@
 """
 -------------------Master ---------------------------
 Face Detection for White and Black People
+et test with many faces
 -------------------Programmer 2---------------------------
 
 
