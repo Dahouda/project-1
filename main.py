@@ -1,7 +1,7 @@
 
 """
 -------------------Master ---------------------------
-
+Face Detection for White and Black People
 -------------------Programmer 2---------------------------
 
 
